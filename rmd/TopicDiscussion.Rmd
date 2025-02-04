@@ -1,0 +1,16 @@
+---
+title: "Pols521.001 Independent Research Paper:<br>The Paper That Cannot Be Written"
+subtitle: "Informal in-class discussion"
+author: "Kevin Mullet <kwm@unm.edu>"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+:abstract
+
+lkj hsdfkjh sdfkjh sdfkjh sdfkjh sdfkjh sdf
