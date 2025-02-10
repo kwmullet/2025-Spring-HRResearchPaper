@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+git add .
+git commit -m "routine cmd line commit/push at $(date -Iseconds)"
+git push origin master

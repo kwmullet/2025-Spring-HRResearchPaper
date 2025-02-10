@@ -1,16 +1,38 @@
 ---
-title: "Pols521.001 Independent Research Paper:<br>The Paper That Cannot Be Written"
-subtitle: "Informal in-class discussion"
+title: "Pols521.001 Independent Research Paper:<br>**The Paper That Cannot Be Written**"
 author: "Kevin Mullet <kwm@unm.edu>"
 date: "`r Sys.Date()`"
-output: html_document
+output:
+  html_document:
+    df_print: paged
+subtitle: "Informal in-class discussion. These notes are available at<br> https://github.com/kwmullet/2025-Spring-HRResearchPaper"
+header-includes:
+- \usePackage{apacite}
+- \bibliographystyle{apacite}
+bibliography: HRResearchPaper.bib
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+This research paper would be an analytic policy brief on the human rights topic of the increasing restrictions on freedom of speech at state and federal levels and some policy recommendations to an NGO such as Amnesty International.
 
-:abstract
+At the state level, in New Mexico, New Mexico executive order 2022-118 [@oliver2022] places restrictions on anyone associated with an agency of the executive branch from criticizing Israel, the Netanyahu administration, or drawing historical parallels between them and their ascendants' experiences in the mid-20th century. Missouri [@ali2019] and Virginia authorities [@mcshane2023] have seized or proposed legislation to seize menstrual tracking data from computers and other devices to draw conclusions about when abortions might have taken place.
 
-lkj hsdfkjh sdfkjh sdfkjh sdfkjh sdfkjh sdf
+At the federal level, one of many examples would be the elimination of all content on the Center for Disease Control's website [@petrie2025] that contains anything from a list of terms including 
+
+> "gender," "transgender," "pregnant person," "LGBT," "non-binary," "assigned male at birth," "assigned female at birth," [@petrie2025]
+
+I hope to lay the groundwork to show that fascism (as technically defined) could well be a trauma response, and that one path to reverse fascism would be policies that would address the underlying trauma that drives it, not necessarily the fascistic outcomes.
+
+
+
+
+
+
+### Works Cited
+
+
+
+
