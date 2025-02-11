@@ -1,0 +1,44 @@
+---
+title: "Pols521 Independent Research Paper:<br>**The Paper That Cannot Be Written**"
+subtitle: "Informal in-class discussion. These notes are available at<br> https://github.com/kwmullet/2025-Spring-HRResearchPaper"
+author: "Kevin Mullet &lt;kwm@unm.edu&gt;"
+format: docx
+bibliography: HRResearchPaper.bib
+---
+```{dot }
+
+digraph A {
+
+   {rank=top "Trauma"}
+   { rank=same "Supression\nof speech" "Policy response"}
+   "Trauma" -> "Intolerance & \n Fascistic Ideology" [ label=" triggers\n a trauma\n response"]
+   "Intolerance & \n Fascistic Ideology" -> "Supression\nof speech" [label=" which\lgives rise \lto\l"]
+   "Supression\nof speech" -> "Prohibiting criticism of Israel" [label="such\nas\n"]
+   "Supression\nof speech" -> "Theft of menstrual data \nfrom personal devices \nand cloud to \ndetect abortions." [label="such\nas\n"]
+   "Supression\nof speech" -> "Eliminating words and terms \nsuch as gender, pregnant person, \nLGBT, woman, and female \nfrom government websites or \ngrant proposals." [label=" such as"]
+   "Policy response" -> "Intolerance & \n Fascistic Ideology" [label="increase in\lpartisain polarity\l"]
+   "Policy response" -> "Trauma" [label="rewind back\lto common\lground\l"
+                                 labelangle=90]
+}
+
+
+
+```
+
+
+This research paper would be an analytic policy brief on the human rights topic of the increasing restrictions on freedom of speech at state and federal levels and some policy recommendations to an NGO such as Amnesty International.
+
+At the state level, in New Mexico, New Mexico executive order 2022-118 [@oliver2022] places restrictions on anyone associated with an agency of the executive branch from criticizing Israel, the Netanyahu administration, or drawing historical parallels between them and their ascendants' experiences in the mid-20th century. Missouri [@ali2019] and Virginia authorities [@mcshane2023] have seized or proposed legislation to seize menstrual tracking data from computers and other devices to draw conclusions about when abortions might have taken place.
+
+At the federal level, one of many examples would be the elimination of all content on the Center for Disease Control's website [@petrie2025] that contains anything from a list of terms including ...
+
+> "gender," "transgender," "pregnant person," "LGBT," "non-binary," "assigned male at birth," "assigned female at birth," [@petrie2025]
+
+...or the National Science Foundation's current instructions to cull any grant proposals with a list of "DEI" terms. The list includes "female", "trauma", "excluded", and "advocacy" [@mukherjee2025].
+
+I hope to lay the groundwork to show that fascism (as technically defined) could well be a trauma response, and that one path to reverse fascism would be policies that would address the underlying trauma that drives it, not necessarily the fascistic outcomes. This project will dovetail with a related project in Professor Rocca's Craft of Policy Analysis course, and I will work with Professors Dreier and Rocca to ensure that adequate safeguards against dual submission are maintained.
+
+##Works Cited
+
+
+
